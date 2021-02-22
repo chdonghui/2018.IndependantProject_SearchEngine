@@ -1,0 +1,9 @@
+ table {
+    border: 1px solid #fff;
+  /*  margin-left: 250px;*/
+    }
+
+footer {              /*하단 css*/
+    font-size: 15px;
+    bottom:0;
+}
